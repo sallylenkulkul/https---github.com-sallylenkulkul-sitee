@@ -73,5 +73,6 @@ if (!isset($_SESSION['login']) || empty($_SESSION['login'])) {
             reader.readAsDataURL(input.files[0]);
         }
     }
+
 </script>
 <script src="../java/animateto.js"
